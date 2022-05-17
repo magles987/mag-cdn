@@ -44,6 +44,9 @@
         "Jue",
         "Vie",
         "Sab"
+    ],
+    "weekdaysAbbrev":[
+        "D","L","M","M","J","V","S"
     ]
 
 }
